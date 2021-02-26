@@ -15,6 +15,30 @@ And here I am trying to catch an IT job.
 - 📫 How to reach me: michal.ogorzalek@gmail.com 
 
 
+##### Skills:
+* Language
+  * python
+  * javascript 
+  * C++ 
+* Data 
+  * SQLite 
+  * PostgreSQL
+* Frameworks
+  * Django 
+* AWS Components
+  * S3 
+  * I AM
+* Project Management Tools
+  * Bitrix
+  * Slack
+  * ZenKit  
+* Other
+  * git
+  * eJupyter Notebook
+  * Pycharm
+
+
+
 ## FEEDBACK IS UTMOST WELCOME! 
 <!--
 **Himhith/Himhith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
