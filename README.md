@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-Welcome to my GitHub repository. My name is Michał Ogorzałek. 26 y.o. architecture gratuate. 
+Welcome to my GitHub repository. My name is Michał Ogorzałek. 26 y.o. architecture gratuate pretty much self thought aspiring to become a software engineer. 
 I also did computer science study for a year and resgined because back then I had choosen architecture as my future career (ironic :sob:). 
 
 And here I am trying to catch an IT job.
@@ -14,6 +14,8 @@ And here I am trying to catch an IT job.
 - :fire: intrestet in: Parametrisation of Architectrue and Urbanistics 
 - 📫 How to reach me: michal.ogorzalek@gmail.com 
 
+
+## FEEDBACK IS UTMOST WELCOME! 
 <!--
 **Himhith/Himhith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
