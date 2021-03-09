@@ -26,6 +26,7 @@ And here I am trying to catch an IT job.
   * PostgreSQL
 * Frameworks
   * Django 
+  * Flask 
 * AWS Components
   * S3 
   * I AM
