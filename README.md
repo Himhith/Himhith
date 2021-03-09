@@ -6,8 +6,8 @@ I also did computer science study for a year and resgined because back then I ha
 
 And here I am trying to catch an IT job.
 
-:star:  check out my portfolio website I have developed in Django: https://micogo.herokuapp.com/home
-:star:  check out my portfolio website I have developed in Flask: https://flaskexamplesite.herokuapp.com/
+:star:  check out my portfolio website I have developed in Django: https://micogo.herokuapp.com/home  
+:star:  check out my portfolio website I have developed in Flask: https://flaskexamplesite.herokuapp.com  
 
 
 - 🌱 I’m currently learning React 
