@@ -6,6 +6,8 @@ I also did computer science study for a year and resgined because back then I ha
 
 And here I am trying to catch an IT job.
 
+I got expirience with programing since I was 13 when I coded my first website with interactive map of Beleriand (first age Middle-Earth). Since then I was using my skills on many occasions. To give one example: I did architectural desgins with parametric tools such as Grasshopper. 
+
 :star:  check out my portfolio website I have developed in Django: https://micogo.herokuapp.com/home  
 :star:  check out my portfolio website I have developed in Flask: https://flaskexamplesite.herokuapp.com  
 
