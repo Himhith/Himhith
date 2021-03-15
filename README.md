@@ -10,7 +10,7 @@ And here I am trying to catch an IT job.
 :star:  check out my portfolio website I have developed in Flask: https://flaskexamplesite.herokuapp.com  
 
 
-- 🌱 I’m currently learning React 
+- 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on anything written in Python ;) 
 - :fire: intrestet in: Parametrisation of Architectrue and Urbanistics 
 - 📫 How to reach me: michal.ogorzalek@gmail.com 
@@ -26,7 +26,13 @@ And here I am trying to catch an IT job.
   * PostgreSQL
 * Frameworks
   * Django 
-  * Flask 
+  * Flask  
+* Other 
+  * Git (would be wierd in not ;) )
+  * Docker
+  * Jupyter Notebook
+  * Pycharm
+
 * AWS Components
   * S3 
   * I AM
@@ -34,11 +40,6 @@ And here I am trying to catch an IT job.
   * Bitrix
   * Slack
   * ZenKit  
-* Other
-  * git
-  * eJupyter Notebook
-  * Pycharm
-
 
 
 ## FEEDBACK IS UTMOST WELCOME! 
