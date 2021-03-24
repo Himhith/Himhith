@@ -27,7 +27,7 @@ I got expirience with programing since I was 13 when I coded my first website wi
   * SQLite 
   * PostgreSQL
 * Frameworks
-  * Django 
+  * Django + Django-Rest-Framework
   * Flask  
 * Other 
   * Git (would be wierd in not ;) )
