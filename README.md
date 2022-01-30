@@ -1,10 +1,9 @@
 ### Hi there 👋
 
 
-Welcome to my GitHub repository. My name is Michał Ogorzałek. 26 y.o. architecture gratuate pretty much self thought aspiring to become a software engineer. 
-I also did computer science study for a year and resgined because back then I had choosen architecture as my future career (ironic :sob:). 
+Welcome to my GitHub repository. My name is Michał Ogorzałek. 
 
-And here I am trying to catch an IT job.
+I work as a software developer.
 
 I got expirience with programing since I was 13 when I coded my first website with interactive map of Beleriand (first age Middle-Earth). Since then I was using my skills on many occasions. To give one example: I did architectural desgins with parametric tools such as Grasshopper. 
 
